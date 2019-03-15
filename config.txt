@@ -1,0 +1,6 @@
+﻿token=NDgyMjk0MjA0NTUxMTM1MjMy.D21E1w.8Nrh6EUsnX0yT17wfF3_c75bNxo
+owner=344939446459826186
+prefix= Y
+game= hi
+stayinchannel=true
+songinstatus=true 
